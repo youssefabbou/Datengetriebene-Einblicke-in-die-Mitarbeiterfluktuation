@@ -1,7 +1,5 @@
 # Datengetriebene Einblicke in die Mitarbeiterfluktuation
 
-# Datengetriebene Einblicke in die Mitarbeiterfluktuation
-
 ## Projektübersicht
 
 In diesem Projekt analysiere ich die Faktoren, die die Kündigungsrate von Mitarbeitern beeinflussen. Das Ziel ist es, ein Machine Learning Modell zu entwickeln, das vorhersagt, welche Mitarbeiter wahrscheinlich das Unternehmen verlassen werden.
